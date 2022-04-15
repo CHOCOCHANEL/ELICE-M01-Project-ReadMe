@@ -116,3 +116,4 @@ document.querySelector(".left-arrow").onclick = function () {
     prevSlide.classList.add("active");
 }
 
+// 5) Wriggling Image
